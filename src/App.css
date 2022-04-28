@@ -1,5 +1,7 @@
 body {
   background: #e8e2db;
+  max-width: 800px;
+  margin: 0 auto;
 }
 
 a {
@@ -9,6 +11,7 @@ a {
 .App-header {
   margin: 30px 0;
   text-align: center;
+  font-size: 50px;
 }
 
 .App-footer {
