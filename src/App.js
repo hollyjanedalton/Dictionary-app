@@ -15,9 +15,19 @@ export default function App() {
           {" "}
           <Dictionary defaultKeyword="travel" />
         </main>
-        <footer className="text-center">
+        <footer className="App-footer text-center">
           {" "}
-          <small>Coded by Holly Dalton</small>
+          <small>
+            Coded by{" "}
+            <a href="https://www.linkedin.com/in/holly-jane-dalton/">
+              Holly Dalton
+            </a>{" "}
+            and{" "}
+            <a href="https://github.com/hollyjanedalton/Dictionary-app">
+              open-sourced
+            </a>{" "}
+            on Github
+          </small>
         </footer>
       </div>
     </div>
