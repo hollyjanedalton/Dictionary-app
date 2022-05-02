@@ -4,6 +4,7 @@
 }
 
 .Synonyms li {
+  text-align: left;
   display: inline-block;
   font-size: 14px;
   line-height: 1;
@@ -14,4 +15,5 @@
   margin-right: 10px;
   margin-top: 10px;
   border-radius: 20px;
+  font-family: "Raleway", sans-serif;
 }

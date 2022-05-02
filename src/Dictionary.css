@@ -6,7 +6,7 @@
 }
 
 .Dictionary {
-  text-align: center;
+  text-align: left;
 }
 
 .Dictionary section {
@@ -28,4 +28,14 @@
 .Dictionary .hint {
   font-size: 13px;
   margin-top: 5px;
+}
+
+.Dictionary h1,
+form,
+.hint {
+  font-family: "Raleway", sans-serif;
+}
+
+.Dictionary .definition {
+  margin-top: 30px;
 }
